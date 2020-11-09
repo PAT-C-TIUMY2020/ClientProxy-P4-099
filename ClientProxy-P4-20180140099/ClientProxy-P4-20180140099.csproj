@@ -65,7 +65,7 @@
     <None Include="Connected Services\ServiceReference1\service1.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Connected Services\ServiceReference1\service2.xsd">
+    <None Include="Connected Services\ServiceReference1\ServiceMtk_P1_20180140099.xsd">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
